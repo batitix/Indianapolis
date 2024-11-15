@@ -384,19 +384,6 @@ div#Select_seat input.checkbox3 + label span.checkbox3 {
 
 }
 
-div#Select_seat input.checkbox4 + label span.checkbox4 {
-    content: "";
-    display: inline-block;
-    width: 95px;
-    height: 95px;
-    margin: -1px 4px 0 0;
-    vertical-align: middle;
-    background: url(checkbox24.png) no-repeat;
-    cursor: help;
-    background-size: 199px;
-
-}
-
 div#Select_seat input[type="checkbox"] + label span { background-position:left top; }
 
 
